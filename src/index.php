@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Ceci est une page de test huhu</p>
+    <p>Ceci est une page de presentation Android 16 avec linux</p>
 </body>
 </html>
